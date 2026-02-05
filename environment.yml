@@ -1,0 +1,20 @@
+name: gatk4
+channels:
+  - conda-forge
+  - bioconda
+  - defaults
+dependencies:
+  - bwa=0.7.17
+  - fastqc=0.11.9
+  - gatk4==4.5.0.0
+  - multiqc=1.13
+  - picard=2.27.4
+  - samtools=1.15.1
+  - sra-tools
+  - seqtk
+  - gsutil
+  - fastp
+  - r-matrix
+  - r-survival
+  - bioconductor-maftools
+prefix: /data/usrhome/LabSSLin/user22/miniconda3/envs/gatk4

@@ -1,0 +1,14 @@
+# --- Data & Results (Local Only) ---
+reads/
+resources/
+results/
+aligned_reads/
+plots/
+tmp/
+
+# --- Logs & System Files ---
+*.log
+*.out
+.DS_Store
+.idea/
+.vscode/

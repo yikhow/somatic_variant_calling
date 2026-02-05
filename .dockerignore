@@ -1,0 +1,11 @@
+reads/
+resources/
+results/
+aligned_reads/
+plots/
+tmp/
+.git/
+.DS_Store
+*.bam
+*.fastq.gz
+*.vcf.gz
